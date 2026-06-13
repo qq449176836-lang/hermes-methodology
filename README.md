@@ -11,7 +11,7 @@
 | 编号 | 章节 | 文件 |
 |------|------|------|
 | 01 | 核心哲学（16字方针） | [`chapters/01-core-philosophy.md`](chapters/01-core-philosophy.md) |
-| 02 | 四层检索优先 | [`chapters/02-three-layer-retrieval.md`](chapters/02-three-layer-retrieval.md) |
+| 02 | 四层检索优先 | [`chapters/02-four-layer-retrieval.md`](chapters/02-four-layer-retrieval.md) |
 | 03 | 棘轮ENP循环 | [`chapters/03-ratchet-enp-cycle.md`](chapters/03-ratchet-enp-cycle.md) |
 | 04 | 自动复盘节奏 | [`chapters/04-auto-review-rhythm.md`](chapters/04-auto-review-rhythm.md) |
 | 05 | 任务分解系统 | [`chapters/05-task-decomposition.md`](chapters/05-task-decomposition.md) |
@@ -56,7 +56,7 @@
 - [`29-vikingdb-integration.md`](chapters/29-vikingdb-integration.md) — VikingDB 双库集成
 
 ### 核心机制
-- [`02-three-layer-retrieval.md`](chapters/02-three-layer-retrieval.md) — 四层检索（含VikingDB）
+- [`02-four-layer-retrieval.md`](chapters/02-four-layer-retrieval.md) — 五层检索（L0-L4，含VikingDB）
 - [`03-ratchet-enp-cycle.md`](chapters/03-ratchet-enp-cycle.md) — 棘轮ENP循环
 - [`06-dual-cycle-evolution.md`](chapters/06-dual-cycle-evolution.md) — 双循环进化引擎
 
@@ -67,4 +67,4 @@
 
 ---
 
-*Hermes Methodology v1.1 — 让每个 Agent 都越用越强*
+*Hermes Methodology v1.2 — 让每个 Agent 都越用越强*
