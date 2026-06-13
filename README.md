@@ -6,12 +6,12 @@
 
 ---
 
-## 📋 目录（28章）
+## 📋 目录（29章）
 
 | 编号 | 章节 | 文件 |
 |------|------|------|
 | 01 | 核心哲学（16字方针） | [`chapters/01-core-philosophy.md`](chapters/01-core-philosophy.md) |
-| 02 | 三层检索优先 | [`chapters/02-three-layer-retrieval.md`](chapters/02-three-layer-retrieval.md) |
+| 02 | 四层检索优先 | [`chapters/02-three-layer-retrieval.md`](chapters/02-three-layer-retrieval.md) |
 | 03 | 棘轮ENP循环 | [`chapters/03-ratchet-enp-cycle.md`](chapters/03-ratchet-enp-cycle.md) |
 | 04 | 自动复盘节奏 | [`chapters/04-auto-review-rhythm.md`](chapters/04-auto-review-rhythm.md) |
 | 05 | 任务分解系统 | [`chapters/05-task-decomposition.md`](chapters/05-task-decomposition.md) |
@@ -38,6 +38,7 @@
 | 26 | 场景速查表 | [`chapters/26-scene-quick-ref.md`](chapters/26-scene-quick-ref.md) |
 | 27 | 反模式警示录 | [`chapters/27-anti-patterns.md`](chapters/27-anti-patterns.md) |
 | 28 | 终极总结 | [`chapters/28-ultimate-summary.md`](chapters/28-ultimate-summary.md) |
+| 29 | VikingDB 双库集成 | [`chapters/29-vikingdb-integration.md`](chapters/29-vikingdb-integration.md) |
 
 ---
 
@@ -52,9 +53,10 @@
 - [`26-scene-quick-ref.md`](chapters/26-scene-quick-ref.md) — 场景速查表
 - [`18-workflow-quick-ref.md`](chapters/18-workflow-quick-ref.md) — 工作流速查卡
 - [`27-anti-patterns.md`](chapters/27-anti-patterns.md) — 反模式警示录
+- [`29-vikingdb-integration.md`](chapters/29-vikingdb-integration.md) — VikingDB 双库集成
 
 ### 核心机制
-- [`02-three-layer-retrieval.md`](chapters/02-three-layer-retrieval.md) — 三层检索
+- [`02-three-layer-retrieval.md`](chapters/02-three-layer-retrieval.md) — 四层检索（含VikingDB）
 - [`03-ratchet-enp-cycle.md`](chapters/03-ratchet-enp-cycle.md) — 棘轮ENP循环
 - [`06-dual-cycle-evolution.md`](chapters/06-dual-cycle-evolution.md) — 双循环进化引擎
 
@@ -65,4 +67,4 @@
 
 ---
 
-*Hermes Methodology v1.0 — 让每个 Agent 都越用越强*
+*Hermes Methodology v1.1 — 让每个 Agent 都越用越强*
