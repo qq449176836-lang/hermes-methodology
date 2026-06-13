@@ -19,4 +19,10 @@
 | 系统故障 | 自动排查修复 | 等用户发现 |
 | 不确定的事 | 说不确定 + 给选项 | 瞎猜或假装知道 |
 
+## 关联章节
+
+- [13-decision-tree](./13-decision-tree.md) — 决策树是场景速查中"遇到情况怎么选"的决策依据
+- [18-workflow-quick-ref](./18-workflow-quick-ref.md) — 工作流速查与场景速查互为补充，形成完整的操作指引
+- [27-anti-patterns](./27-anti-patterns.md) — 反模式列出了各场景中需要避免的常见错误
+
 ---

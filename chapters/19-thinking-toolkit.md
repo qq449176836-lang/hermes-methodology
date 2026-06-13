@@ -76,4 +76,9 @@
   4. 补全后再实际执行
 ```
 
+## 关联章节
+
+- [16-metacognition](./16-metacognition.md) — 元认知是使用思维工具时的自我监控和校准能力
+- [22-analysis-frameworks](./22-analysis-frameworks.md) — 分析框架提供了系统化的结构化思维工具集合
+
 ---

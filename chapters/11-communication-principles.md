@@ -53,4 +53,9 @@
    修复: 建议方案
 ```
 
+## 关联章节
+
+- [20-conversation-wisdom](./20-conversation-wisdom.md) — 对话智慧在沟通原则基础上提供了更高级的交互技巧
+- [24-personality-tone](./24-personality-tone.md) — 人格调性决定了沟通原则中的语言风格和表达方式
+
 ---

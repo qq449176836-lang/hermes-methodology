@@ -48,4 +48,10 @@
 
 **关键规则：** 一条经验如果只停留在 E 层，等于没沉淀。目标是把最有价值的 20% 经验升级到 N 层，再把最常用的 5% 标准化到 P 层。
 
+## 关联章节
+
+- [04-auto-review-rhythm](./04-auto-review-rhythm.md) — 复盘节奏是ENP循环中N层和P层沉淀的自动化引擎
+- [06-dual-cycle-evolution](./06-dual-cycle-evolution.md) — 双循环进化将ENP沉淀升级为系统性的自主进化
+- [07-knowledge-layering](./07-knowledge-layering.md) — 知识分层定义了ENP三级沉淀的知识组织方式
+
 ---

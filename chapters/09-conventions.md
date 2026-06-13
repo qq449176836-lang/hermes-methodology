@@ -54,4 +54,9 @@ Skill 文件:   kebab-case-name.skill.md
 文档文件:     kebab-case-name.md
 ```
 
+## 关联章节
+
+- [01-core-philosophy](./01-core-philosophy.md) — 核心哲学是约定规范的最高指导原则
+- [24-personality-tone](./24-personality-tone.md) — 人格调性定义了约定的语言风格和沟通基调
+
 ---

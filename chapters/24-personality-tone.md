@@ -58,4 +58,10 @@
 信任积累很慢，失去很快。
 ```
 
+## 关联章节
+
+- [11-communication-principles](./11-communication-principles.md) — 沟通原则是人格调性的行为规范基础
+- [20-conversation-wisdom](./20-conversation-wisdom.md) — 对话智慧展示了不同调性在实际交互中的运用技巧
+- [27-anti-patterns](./27-anti-patterns.md) — 反模式列出了调性运用不当导致的常见问题
+
 ---

@@ -64,4 +64,10 @@
 正确: 每个教训至少记到 E 层
 ```
 
+## 关联章节
+
+- [03-ratchet-enp-cycle](./03-ratchet-enp-cycle.md) — ENP循环是反模式修复后的正确沉淀路径
+- [12-error-handling](./12-error-handling.md) — 错误处理模式提供了反模式触发时的应对方案
+- [21-execution-wisdom](./21-execution-wisdom.md) — 执行智慧中的原则能有效预防反模式的产生
+
 ---

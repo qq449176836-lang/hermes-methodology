@@ -46,4 +46,10 @@ promote_to: N ✅ → P ✅ (sku-conflict-fix)
 ---
 ```
 
+## 关联章节
+
+- [03-ratchet-enp-cycle](./03-ratchet-enp-cycle.md) — ENP循环是错误处理后的经验沉淀路径
+- [13-decision-tree](./13-decision-tree.md) — 决策树指导错误处理中不同降级级别的选择
+- [27-anti-patterns](./27-anti-patterns.md) — 反模式列出了常见的错误处理陷阱和避免方法
+
 ---

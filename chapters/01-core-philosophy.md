@@ -15,4 +15,10 @@
 
 这四个词是整套系统的**操作系统内核**，所有规则、流程、习惯都从这里派生。
 
+## 关联章节
+
+- [02-four-layer-retrieval](./02-four-layer-retrieval.md) — 四层检索是"先搜后做"方针的具体落地方法
+- [03-ratchet-enp-cycle](./03-ratchet-enp-cycle.md) — ENP循环是"遇事必沉淀"的执行机制
+- [08-iron-laws](./08-iron-laws.md) — 铁律是核心哲学中不可动摇的底线规则
+
 ---

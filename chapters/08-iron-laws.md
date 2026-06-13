@@ -49,4 +49,10 @@
 能力边界要定期审视和扩展。
 ```
 
+## 关联章节
+
+- [01-core-philosophy](./01-core-philosophy.md) — 核心哲学是铁律的源头和指导思想
+- [15-security-boundaries](./15-security-boundaries.md) — 安全边界是对铁律第4条（安全铁律）的详细展开
+- [25-ethics](./25-ethics.md) — 伦理底线是铁律系统的延伸和补充
+
 ---

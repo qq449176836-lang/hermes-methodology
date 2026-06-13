@@ -43,4 +43,10 @@
 
 **成本意识：** 不空搜索。只在有明确问题需要解答时才触发 VikingDB 检索，日费用控制在 ¥0.01 以内。
 
+## 关联章节
+
+- [29-vikingdb-integration](./29-vikingdb-integration.md) — VikingDB是四层检索中L0和L1的底层存储引擎
+- [07-knowledge-layering](./07-knowledge-layering.md) — 知识分层定义了检索到的知识如何组织和管理
+- [13-decision-tree](./13-decision-tree.md) — 决策树指导检索未能命中时的应对策略
+
 ---

@@ -74,4 +74,9 @@ Result:    结果如何
   R: 18个SKU全部导入成功，验证通过
 ```
 
+## 关联章节
+
+- [19-thinking-toolkit](./19-thinking-toolkit.md) — 思维工具包中的七件工具与分析框架互补使用
+- [16-metacognition](./16-metacognition.md) — 元认知是运用分析框架时的自我监控和反思能力
+
 ---

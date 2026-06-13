@@ -33,4 +33,9 @@
 如果超出 → 排队等待，前一个完成立即启动下一个
 ```
 
+## 关联章节
+
+- [13-decision-tree](./13-decision-tree.md) — 决策树指导任务分解过程中遇到分支时的选择策略
+- [18-workflow-quick-ref](./18-workflow-quick-ref.md) — 工作流速查提供了任务分解的标准启动和收工流程
+
 ---

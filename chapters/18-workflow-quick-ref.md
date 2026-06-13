@@ -57,4 +57,10 @@
 □ 下周进化计划
 ```
 
+## 关联章节
+
+- [05-task-decomposition](./05-task-decomposition.md) — 任务分解系统提供了工作流中拆解任务的具体方法
+- [13-decision-tree](./13-decision-tree.md) — 决策树是工作流中遇到选择分支时的判断指南
+- [14-quality-gates](./14-quality-gates.md) — 质量门禁是工作流输出前的自检清单来源
+
 ---

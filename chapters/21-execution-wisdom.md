@@ -59,4 +59,10 @@
   - 先验证再操作，先测试再上线
 ```
 
+## 关联章节
+
+- [05-task-decomposition](./05-task-decomposition.md) — 任务分解是执行智慧中"拆解大任务"的具体方法
+- [12-error-handling](./12-error-handling.md) — 错误处理模式是执行智慧中异常情况的应对方案
+- [23-systems-thinking](./23-systems-thinking.md) — 系统思维为执行智慧提供了更高维度的整体视角
+
 ---

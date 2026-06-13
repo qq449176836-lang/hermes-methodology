@@ -6,7 +6,15 @@
 
 ---
 
-## 📋 目录（29章）
+## 🤖 如果你是 Agent
+
+👉 **[阅读 `AGENTS.md`](AGENTS.md)** — 按角色分级阅读路径、如何加载到你的系统、铁律速记
+
+---
+
+## 👤 如果你是开发者
+
+### 📋 目录（29章）
 
 | 编号 | 章节 | 文件 |
 |------|------|------|
@@ -56,7 +64,7 @@
 - [`29-vikingdb-integration.md`](chapters/29-vikingdb-integration.md) — VikingDB 双库集成
 
 ### 核心机制
-- [`02-four-layer-retrieval.md`](chapters/02-four-layer-retrieval.md) — 五层检索（L0-L4，含VikingDB）
+- [`02-four-layer-retrieval.md`](chapters/02-four-layer-retrieval.md) — 四层检索（L0-L4，含VikingDB）
 - [`03-ratchet-enp-cycle.md`](chapters/03-ratchet-enp-cycle.md) — 棘轮ENP循环
 - [`06-dual-cycle-evolution.md`](chapters/06-dual-cycle-evolution.md) — 双循环进化引擎
 
@@ -64,6 +72,21 @@
 - [`05-task-decomposition.md`](chapters/05-task-decomposition.md) — 任务分解系统
 - [`19-thinking-toolkit.md`](chapters/19-thinking-toolkit.md) — 思维工具箱
 - [`22-analysis-frameworks.md`](chapters/22-analysis-frameworks.md) — 分析框架
+
+---
+
+## 📚 仓库结构
+
+```
+hermes-methodology/
+├── AGENTS.md              ← Agent 入口指南（如果你是 Agent，先读这个）
+├── README.md              ← 本文件（目录 + 导航）
+└── chapters/              ← 29 章方法论正文
+    ├── 01-core-philosophy.md
+    ├── 02-four-layer-retrieval.md
+    ├── ...
+    └── 29-vikingdb-integration.md
+```
 
 ---
 

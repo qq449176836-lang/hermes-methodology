@@ -74,4 +74,10 @@
   - 追踪: 问题能回溯到源头
 ```
 
+## 关联章节
+
+- [07-knowledge-layering](./07-knowledge-layering.md) — 知识分层从系统角度定义了知识的组织结构和层次
+- [21-execution-wisdom](./21-execution-wisdom.md) — 执行智慧是系统思维原则在具体操作中的落地实践
+- [27-anti-patterns](./27-anti-patterns.md) — 反模式列出了系统思维缺失时常见的错误模式
+
 ---

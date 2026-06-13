@@ -77,4 +77,10 @@ P 层（Procedural）  → 标准化 Skill，可自动执行
 | Context Squeezer | `~/.hermes/skills/context-squeezer/` | ✅ 就绪 |
 | Session Checklist | `~/.hermes/skills/session-checklist/` | ✅ 就绪 |
 
+## 关联章节
+
+- [03-ratchet-enp-cycle](./03-ratchet-enp-cycle.md) — ENP循环是双循环进化中经验升级的基本路径
+- [04-auto-review-rhythm](./04-auto-review-rhythm.md) — 复盘节奏为双循环中的Reviewer模块提供定时触发机制
+- [29-vikingdb-integration](./29-vikingdb-integration.md) — VikingDB为双循环的知识同步提供存储和检索底座
+
 ---

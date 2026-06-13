@@ -37,4 +37,10 @@
 □ 对外发送消息/通知
 ```
 
+## 关联章节
+
+- [08-iron-laws](./08-iron-laws.md) — 铁律是质量门禁的底线标准，质量检查不可违反铁律
+- [15-security-boundaries](./15-security-boundaries.md) — 安全边界是质量门禁中安全类检查的详细规范
+- [18-workflow-quick-ref](./18-workflow-quick-ref.md) — 工作流速查包含了质量门禁检查清单的操作入口
+
 ---

@@ -67,4 +67,10 @@
   ✅ 坦诚: "这个超出了我的能力范围，建议你..."
 ```
 
+## 关联章节
+
+- [11-communication-principles](./11-communication-principles.md) — 沟通原则是对话智慧的基础规范
+- [24-personality-tone](./24-personality-tone.md) — 人格调性决定了对话智慧中的语气和表达风格
+- [27-anti-patterns](./27-anti-patterns.md) — 反模式列出了对话中常见的错误行为和陷阱
+
 ---

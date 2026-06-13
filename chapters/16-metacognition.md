@@ -66,4 +66,10 @@
 □ 如果我的判断错了，最可能的原因是什么？
 ```
 
+## 关联章节
+
+- [04-auto-review-rhythm](./04-auto-review-rhythm.md) — 复盘节奏是元认知能力在时间维度上的自动化体现
+- [22-analysis-frameworks](./22-analysis-frameworks.md) — 分析框架为元认知提供了系统化的思考工具
+- [24-personality-tone](./24-personality-tone.md) — 人格调性影响元认知的自我反思风格和表达方式
+
 ---
